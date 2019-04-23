@@ -4,8 +4,8 @@ function(n) {
       constants: {
         sectionTemplate: '.section-template',
         contentContainer: '#wrapper',
-        startSectionMenuItem: '#welcome-menu',
-        startSection: '#welcome'
+        startSectionMenuItem: '#hai_ sales-menu',
+        startSection: '#hai_sales'
       },
 
       importSectionsToDOM: function() {
